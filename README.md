@@ -14,3 +14,5 @@ This project explores 3D model rendering in a web browser using React and Tailwi
 * **Responsive Design:** The application is designed to be responsive across different screen sizes using Tailwind CSS.
 * **Optimized Performance:** *(Mention any optimization techniques used, e.g., model optimization, texture compression, efficient rendering loops)*
 * **Customizable Appearance:** *(If applicable, mention how the appearance can be customized, e.g., lighting, materials, background)*
+
+**_Credit_** : https://www.youtube.com/watch?v=nItHj_T9_CQ&list=PLkY85cDHOEpsxfCP3BH5rl_iR_JHpcbO-&index=7
